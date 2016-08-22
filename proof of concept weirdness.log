@@ -1,0 +1,27 @@
+Recieved message: 1471882885296
+Got data: undefined
+savedData: original data
+Set new data: 1471882885296
+Recieved message: 1471882893648
+Got data: [object Object]
+Object {time: 1471882835550}time: 1471882835550__proto__: Object
+savedData: [object Object]
+Set new data: 1471882893648
+clearData()
+Cleared local storage data.
+undefined
+Recieved message: 1471882912204
+Got data: [object Object]
+Object {time: 1471882885296}
+savedData: [object Object]
+Set new data: 1471882912204
+Recieved message: 1471882948549
+Got data: [object Object]
+Object {time: null}time: null__proto__: Object
+savedData: [object Object]
+Set new data: 1471882948549
+Recieved message: 1471882989991
+Got data: [object Object]
+Object {time: 1471882912204}
+savedData: [object Object]
+Set new data: 1471882989991
