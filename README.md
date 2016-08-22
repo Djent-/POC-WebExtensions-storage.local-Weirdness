@@ -1,0 +1,1 @@
+# POC-WebExtensions-storage.local-Weirdness
