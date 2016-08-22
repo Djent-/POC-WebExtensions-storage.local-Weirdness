@@ -9,4 +9,4 @@ Reproduction steps:
     - refresh page more
   - observe contents of storage lag one `chrome.storage.local.set()` behind
 
-An example log is available [here](https://github.com/Djent-/POC-WebExtensions-storage.local-Weirdness/blob/master/proof%20of%20concept%20weirdness.log).
+An example log is available [here](https://github.com/Djent-/POC-WebExtensions-storage.local-Weirdness/blob/master/proof%20of%20concept%20weirdness.log), conducted in Google Chrome version `52.0.2743.116 m (64-bit)`.
